@@ -1,0 +1,5 @@
+streamlit==1.52.2
+langchain==1.2.3
+langchain-openai
+langchain-core==1.2.7
+streamlit-chat
